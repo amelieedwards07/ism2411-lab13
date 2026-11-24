@@ -1,6 +1,6 @@
 # ISM2411 Lab 13 — First DataFrame — Retail Sales Explorer
 
-Matteo Aranda-Leiva
+Amelie Edwards
 
 Install pandas with `python -m pip install pandas`. From the repository folder, run:
 
